@@ -57,8 +57,8 @@ export default function Home() {
           <div className="text-sm text-gray-400 mb-4">----------------- Acesso Limitado -----------------</div>
           <h2 className="text-xl md:text-2xl mb-2">Sistema proprietário de 5 partes para Liberdade Financeira em Dólar:</h2>
           <div className="text-2xl md:text-4xl font-bold mb-8">
-            Aprenda como usar{" "}
-            <span className="underline decoration-4">capital de terceiros</span> e operar sem medo de quebrar
+          A Estratégia Que Permite Homens Acima Dos 55 Anos Gerarem{" "}
+            <span className="underline decoration-4">Renda Extra No Mercado Financeiro</span> Usando Capital De Quem Tem Dinheiro Sobrando
           </div>
         </header>
 
